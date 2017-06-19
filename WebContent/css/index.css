@@ -1,0 +1,23 @@
+body {
+	background-color: powderblue;
+	font-size:18px;
+}
+.logout{
+	width:100%;
+	font-size:8pt;
+	text-align:right;
+	
+}
+.grassetto{
+	font-weight: bold;
+	
+}
+
+h1{
+	text-align:center;
+}
+ul{
+	
+	text-align:left;
+	font-size:18px;
+}
